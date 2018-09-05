@@ -1,2 +1,2 @@
-h1.SimpleWebsite 
+SimpleWebsite 
 Erster Teil des Entwicklungsworkshop
